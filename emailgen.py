@@ -74,8 +74,8 @@ made by: IntelCoreI6#5753
     answer = input()
     if answer == "1" :
         email
-        genAmount = int(input("How many suffix do you want to generate?         "))
-        emailinput = input("give the gmail acc u wanna use                        ")
+        genAmount = int(input("How many suffix do you want to generate?      1000   "))
+        emailinput = input("give the gmail acc u wanna use        kayesba1234567@gmail.com                ")
         prefixgen(genAmount, emailinput)
         
 
