@@ -1,10 +1,10 @@
-import email
+import email kayesba123456@gmail.com
 import random
 import string
 import time
 import os
 output = []
-randomLeghnt = 5
+randomLeghnt = 500
 
 
 
